@@ -1,5 +1,5 @@
 {
-  "name": "knexSqlite3",
+  "name": "knexSqlite3Ysql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
